@@ -1,4 +1,4 @@
-# Advice-App
+# Budget-App
 ## Team Members
 ### Juan Carlos López
 ### Sergio Gamboa
